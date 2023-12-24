@@ -5,7 +5,7 @@ from googletrans import Translator
 from configs import get_key
 import sqlite3
 
-TOKEN = '6544970592:AAE-Zy-NSEG2Q163U2g1K-TYIsJQ-CDxWn4'
+TOKEN = 'Your telegram bot token'
 
 bot = TeleBot(TOKEN)
 
